@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521495811019",
+    "project_id": "voice-assistant-57b26",
+    "storage_bucket": "voice-assistant-57b26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521495811019:android:370304f06230b4d2f65c4e",
+        "android_client_info": {
+          "package_name": "com.rivaan.allen.allen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3lvzgK2LJ8WCCIWNSRDyWcdqHnxt6bKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
